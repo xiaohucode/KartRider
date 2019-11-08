@@ -57,7 +57,7 @@
 ![](https://github.com/xiaohucode/xhtool/blob/master/ALL/%E7%BB%BF%E8%89%B2%E5%8F%8C%E5%8D%A1.png)
 
 自动合成.png
-![](https://github.com/xiaohucode/xhtool/blob/master/ALL/%E8%87%AA%E5%8A%A8%E5%90%88%E6%88%90.png)
+![](https://github.com/xiaohucode/xhtool/blob/master/ALL/%E8%87%AA%E5%8A%A8%E5%90%88%E6%88%901.png)
 
 自动抓娃娃.png
 ![](https://github.com/xiaohucode/xhtool/blob/master/ALL/%E8%87%AA%E5%8A%A8%E6%8A%93%E5%A8%83%E5%A8%83.png)
