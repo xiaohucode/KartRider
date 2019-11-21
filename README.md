@@ -2,7 +2,7 @@
 
 购买地址：https://pay.333cc.cc/
 
-程序下载： [多功能V137-内核版](https://github.com/xiaohucode/xhtool/raw/master/%E5%A4%9A%E5%8A%9F%E8%83%BDV137(%E5%86%85%E6%A0%B8%E7%89%88).rar)
+程序下载： [多功能V137-1121](https://github.com/xiaohucode/xhtool/raw/master/vip-1121.rar)
 
 内核版:不依赖辅助启动游戏;更稳定
 兼容版:必须依赖辅助启动游戏
