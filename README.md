@@ -2,7 +2,7 @@
 
 购买地址：https://pay.333cc.cc/
 
-程序下载： [多功能V138-1201](https://github.com/xiaohucode/xhtool/raw/master/vip1201.zip)
+程序下载： [多功能VIP辅助](https://github.com/xiaohucode/xhtool/raw/master/vip.zip)
 
 内核版:不依赖辅助启动游戏;更稳定。
 
